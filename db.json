@@ -1,0 +1,16 @@
+{
+  "table-data": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "age": 26,
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Test User",
+      "age": 30,
+      "email": "test.user@example.com"
+    }
+  ]
+}
